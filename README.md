@@ -7,12 +7,13 @@ The first Unity 3D exercise, a simple first-person-controlled character.
 ## Implementation
 
 ## References
-
-None
+Video
 
 ## Future Development
-
-None
+Project 05
 
 ## Created by 
- 
+Daniyaal Hussain
+
+## Username
+Lutumna
